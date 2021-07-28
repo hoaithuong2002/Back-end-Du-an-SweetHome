@@ -1,7 +1,8 @@
 # Back-end-Du-an-SweetHome
 <br>
 <br>
-##Chạy Lệnh Trong Laravel
+## Chạy Lệnh Trong Laravel
+<br>
 <br>
 1. Chạy lệnh composer i
 <br>
