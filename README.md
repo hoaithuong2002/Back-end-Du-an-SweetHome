@@ -1,5 +1,5 @@
 # Back-end-Du-an-SweetHome (Chạy lệnh LARAVEL)
-
+<br>
 1. Chạy lệnh composer i
 <br>
 2. Chạy lệnh cp .env.example .env để tạo file .env mới
