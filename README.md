@@ -1,9 +1,5 @@
-# Back-end-Du-an-SweetHome
-<br>
-<br>
-## Chạy Lệnh Trong Laravel
-<br>
-<br>
+# Back-end-Du-an-SweetHome (Chạy lệnh LARAVEL)
+
 1. Chạy lệnh composer i
 <br>
 2. Chạy lệnh cp .env.example .env để tạo file .env mới
